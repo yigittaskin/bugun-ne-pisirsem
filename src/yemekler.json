@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Yemek 1",
+      "tarif": "Bu yemek harika bir tarifle yapılır."
+    },
+    {
+      "id": 2,
+      "name": "Yemek 2",
+      "tarif": "Bu yemek de lezzetli ve kolaydır."
+    },
+    {
+      "id": 2,
+      "name": "Yemek 3",
+      "tarif": "Bu yemek de lezzetli ve kolaydır."
+    },
+    {
+      "id": 2,
+      "name": "Yemek 4",
+      "tarif": "Bu yemek de lezzetli ve kolaydır."
+    },
+    {
+      "id": 2,
+      "name": "Yemek 5",
+      "tarif": "Bu yemek de lezzetli ve kolaydır."
+    },
+    {
+      "id": 2,
+      "name": "Yemek 6",
+      "tarif": "Bu yemek de lezzetli ve kolaydır."
+    }
+  ]
+  
