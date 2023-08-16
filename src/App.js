@@ -21,7 +21,8 @@ function App() {
         <h3 className='text-center text-white'>Bugün Ne Pişirsem?</h3>
       </div>
       <p className='text-acikYesil text-center p-2 mt-3'>
-        ‘Bugün Ne Pişirsem’ diye düşünmekten yorulduysanız doğru adrestesiniz!
+        ‘Bugün Ne Pişirsem’ diye düşünmekten yorulduysanız doğru adrestesiniz! <br />
+        <small>(Yeni öneriler için sayfayı yenileyin.)</small>
       </p>
       <div className='container mt-3 p-2'>
         <div className='row'>
@@ -31,7 +32,7 @@ function App() {
                 <div className='d-flex justify-content-around align-items-center'>
                   <div>
                     <h3 className='text-acikYesil'>{yemek.name}</h3>
-                    <a className='text-acikYesil' href='#'>Tarifi görmek için buraya tıkla.</a>
+                    <a className='text-acikYesil' href={yemek.tarif}  target='_blank' rel="noreferrer">Tarifi görmek için buraya tıkla.</a>
                   </div>
                   <div>
                     <img src={YemekIcon} alt='Yemek İkon' />

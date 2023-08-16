@@ -1,33 +1,258 @@
 [
     {
       "id": 1,
-      "name": "Yemek 1",
-      "tarif": "Bu yemek harika bir tarifle yapılır."
+      "name": "Makarna",
+      "tarif": "https://yemek.com/tarif/makarna/"
     },
     {
       "id": 2,
-      "name": "Yemek 2",
-      "tarif": "Bu yemek de lezzetli ve kolaydır."
+      "name": "Fırın Makarna",
+      "tarif": "https://yemek.com/tarif/mantarli-firin-makarna/"
     },
     {
-      "id": 2,
-      "name": "Yemek 3",
-      "tarif": "Bu yemek de lezzetli ve kolaydır."
+      "id": 3,
+      "name": "Mantar Sote",
+      "tarif": "https://yemek.com/tarif/mantar-sote/"
     },
     {
-      "id": 2,
-      "name": "Yemek 4",
-      "tarif": "Bu yemek de lezzetli ve kolaydır."
+      "id": 4,
+      "name": "Tavuk Sote",
+      "tarif": "https://yemek.com/tarif/mantarli-tavuk-sote/"
     },
     {
-      "id": 2,
-      "name": "Yemek 5",
-      "tarif": "Bu yemek de lezzetli ve kolaydır."
+      "id": 5,
+      "name": "Tavuklu Pilav",
+      "tarif": "https://yemek.com/tarif/tavuk-goguslu-pilav/"
     },
     {
-      "id": 2,
-      "name": "Yemek 6",
-      "tarif": "Bu yemek de lezzetli ve kolaydır."
+      "id": 6,
+      "name": "Karnıyarık",
+      "tarif": "https://yemek.com/tarif/karniyarik/"
+    },
+    {
+      "id": 7,
+      "name": "Dolma",
+      "tarif": "https://yemek.com/tarif/katikli-dolma/"
+    },
+    {
+      "id": 8,
+      "name": "Sarma",
+      "tarif": "https://yemek.com/tarif/zeytinyagli-yaprak-sarma/"
+    },
+    {
+      "id": 9,
+      "name": "Yeşil Fasulye",
+      "tarif": "https://yemek.com/tarif/kurutulmus-fasulye-kavurmasi/"
+    },
+    {
+      "id": 10,
+      "name": "Bamya",
+      "tarif": "https://yemek.com/tarif/zeytinyagli-bamya/"
+    },
+    {
+      "id": 11,
+      "name": "Lahmacun",
+      "tarif": "https://yemek.com/tarif/lahmacun/"
+    },
+    {
+      "id": 12,
+      "name": "Balık",
+      "tarif": "https://yemek.com/tarif/tuzda-balik/"
+    },
+    {
+      "id": 13,
+      "name": "Tavuk Çöpşiş",
+      "tarif": "https://yemek.com/tarif/firinda-tavuk-cop-sis/"
+    },
+    {
+      "id": 14,
+      "name": "Saplı Et",
+      "tarif": "https://yemek.com/tarif/firinda-tavuk-baget/"
+    },
+    {
+      "id": 15,
+      "name": "Menemen",
+      "tarif": "https://yemek.com/tarif/menemen/"
+    },
+    {
+      "id": 16,
+      "name": "Kısır",
+      "tarif": "https://yemek.com/tarif/kisir/"
+    },
+    {
+      "id": 17,
+      "name": "Mercimekli Köfte",
+      "tarif": "https://yemek.com/tarif/mercimekli-kofte/"
+    },
+    {
+      "id": 18,
+      "name": "Çorba",
+      "tarif": "https://www.nefisyemektarifleri.com/liste/yilin-populer-corba-tarifleri/"
+    },
+    {
+      "id": 19,
+      "name": "Erişte",
+      "tarif": "https://yemek.com/tarif/eristeli-yogurt-corbasi/"
+    },
+    {
+      "id": 20,
+      "name": "Mantı",
+      "tarif": "https://yemek.com/tarif/manti/"
+    },
+    {
+      "id": 21,
+      "name": "Yüzük Çorbası",
+      "tarif": "https://yemek.com/tarif/yuksuk-corbasi/"
+    },
+    {
+      "id": 22,
+      "name": "Mücver",
+      "tarif": "https://yemek.com/tarif/mucver/"
+    },
+    {
+      "id": 23,
+      "name": "Dilme",
+      "tarif": "https://yemek.com/tarif/karni-dilik-2/"
+    },
+    {
+      "id": 24,
+      "name": "Kabak Kavurması",
+      "tarif": "https://yemek.com/tarif/kabak-kavurma/"
+    },
+    {
+      "id": 25,
+      "name": "Bezelye",
+      "tarif": "https://yemek.com/tarif/bezelye-yemegi/"
+    },
+    {
+      "id": 26,
+      "name": "Barbunya",
+      "tarif": "https://yemek.com/tarif/barbunya/"
+    },
+    {
+      "id": 27,
+      "name": "Nohut Yahni",
+      "tarif": "https://yemek.com/tarif/yahni/"
+    },
+    {
+      "id": 28,
+      "name": "Kuru Fasulye",
+      "tarif": "https://yemek.com/tarif/kuru-fasulye/"
+    },
+    {
+      "id": 29,
+      "name": "Patates Salatası",
+      "tarif": "https://yemek.com/tarif/patates-salatasi/"
+    },
+    {
+      "id": 30,
+      "name": "Karışık Kızartma",
+      "tarif": "https://yemek.com/tarif/karisik-kizartma/"
+    },
+    {
+      "id": 31,
+      "name": "Makarna Salatası",
+      "tarif": "https://yemek.com/tarif/makarna-salatasi/"
+    },
+    {
+      "id": 32,
+      "name": "Şehriye Salatası",
+      "tarif": "https://yemek.com/tarif/sehriye-salatasi/"
+    },
+    {
+      "id": 33,
+      "name": "Köfte",
+      "tarif": "https://yemek.com/tarif/firinda-kofte-patates/"
+    },
+    {
+      "id": 34,
+      "name": "Döner",
+      "tarif": "https://yemek.com/tarif/ev-yapimi-et-doner/"
+    },
+    {
+      "id": 35,
+      "name": "Tantuni",
+      "tarif": "https://yemek.com/tarif/tantuni/"
+    },
+    {
+      "id": 36,
+      "name": "Pırasa",
+      "tarif": "https://yemek.com/tarif/zeytinyagli-pirasa/"
+    },
+    {
+      "id": 37,
+      "name": "Ispanak",
+      "tarif": "https://yemek.com/tarif/ispanak/"
+    },
+    {
+      "id": 38,
+      "name": "Beşamel Soslu Karnabahar",
+      "tarif": "https://yemek.com/tarif/besamel-soslu-karnabahar/"
+    },
+    {
+      "id": 39,
+      "name": "Sarımsaklı Köfte",
+      "tarif": "https://yemek.com/tarif/sarimsakli-kofte/"
+    },
+    {
+      "id": 40,
+      "name": "Kayseri Yağlaması",
+      "tarif": "https://yemek.com/tarif/kayseri-yaglamasi/"
+    },
+    {
+      "id": 41,
+      "name": "Yalancı Mantı",
+      "tarif": "https://yemek.com/tarif/yalanci-manti/"
+    },
+    {
+      "id": 42,
+      "name": "Et Tava",
+      "tarif": "https://yemek.com/tarif/etli-ankara-tava/"
+    },
+    {
+      "id": 43,
+      "name": "Tavuk Tava",
+      "tarif": "https://yemek.com/tarif/tavuklu-ankara-tava/"
+    },
+    {
+      "id": 44,
+      "name": "Börek",
+      "tarif": "https://yemek.com/tarif/kiymali-borek/"
+    },
+    {
+      "id": 45,
+      "name": "İçli Köfte",
+      "tarif": "https://yemek.com/tarif/icli-kofte/"
+    },
+    {
+      "id": 46,
+      "name": "Havuç Tarator",
+      "tarif": "https://yemek.com/tarif/havuc-tarator/"
+    },
+    {
+      "id": 47,
+      "name": "Spagetti",
+      "tarif": "https://yemek.com/tarif/bolonez-soslu-spagetti/"
+    },
+    {
+      "id": 48,
+      "name": "Patlıcan Kebabı",
+      "tarif": "https://yemek.com/tarif/firinda-patlican-kebabi/"
+    },
+    {
+      "id": 49,
+      "name": "Patates Kebap",
+      "tarif": "https://yemek.com/tarif/patates-kebabi/"
+    },
+    {
+      "id": 50,
+      "name": "Babagannuş",
+      "tarif": "https://yemek.com/tarif/babagannus/"
+    },
+    {
+      "id": 51,
+      "name": "Bugün'de Eşiniz Ismarlasın :)",
+      "tarif": "https://www.tripadvisor.com.tr/Restaurants-g298000-Mersin_Mersin_Icel_Turkish_Mediterranean_Coast.html"
     }
   ]
   
